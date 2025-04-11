@@ -1,0 +1,63 @@
+{
+  "name": "Zenitsu-Music-Bot",
+  "description": "Telegram Music Bot powered by Python and Node.js",
+  "repository": "https://github.com/slayer123700/zenitsu-music",
+  "logo": "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg",
+  "env": {
+    "API_ID": {
+      "description": "API ID from Telegram",
+      "value": "22317880"
+    },
+    "API_HASH": {
+      "description": "API HASH from Telegram",
+      "value": "5e341628f7176989bcffb2b8fc22445f"
+    },
+    "BOT_TOKEN": {
+      "description": "Bot Token for your Telegram bot",
+      "value": "7656219426:AAF5748P2BNbK250vSii7XE9VNxSD_ThDq0"
+    },
+    "MONGO_DB_URI": {
+      "description": "MongoDB connection URI",
+      "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "LOGGER_ID": {
+      "description": "Logger Group ID",
+      "value": "-1002392274240"
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram ID",
+      "value": "6018803920"
+    },
+    "SUPPORT_CHANNEL": {
+      "description": "Support Channel URL",
+      "value": "https://t.me/MAHABHARAT_SUPPORT"
+    },
+    "SUPPORT_CHAT": {
+      "description": "Support Chat URL",
+      "value": "https://t.me/zenitsu_bot_support"
+    },
+    "STRING_SESSION": {
+      "description": "String Session for Telegram Bot",
+      "value": "BAFUizgANaTD0qaODMNn46TsezuOdFjudSxwp8MCAMPxRrxqqSpJklKrNfYKT-_HHHijM79YC2lghRWgHCLtLvUMiR40bodGh7OE2BuvxjqgJImV4dwi92UGQ2aS1J3KHXBmp2n73ScxxdM-aRVeXXd4xf4EOqPZlNfOIQ9-xH-dZw0qcrQF-FFU8npo0f5TJ-GPYaY6EcOfpstoi2cilTRyngoAMvl-ziMMw42j8XkOUia5d7CREvgeZvmF411WEKvuuQ0wyVIkL4CFBmPeb51nd9A-_tegVBcgN-CT95AOjB4uyFGlZvmfhyfHLfXd59ZRFAPWNIXiCPp2ceSD2-f1q2tVUAAAAAGXpY4PAA"
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  },
+      "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+  "scripts": {
+    "postdeploy": "python3 -m Devine"
+  }
+}
