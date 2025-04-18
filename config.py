@@ -44,7 +44,7 @@ UPSTREAM_BRANCH = "master"
 GIT_TOKEN = ""
 
 
-SUPPORT_CHANNEL = "t.me/MBT_UPDATES"
+SUPPORT_CHANNEL = "https://t.me/MBT_UPDATES"
 
 SUPPORT_CHAT = "https://t.me/+ytk9hkZfGjY3MDRl"
 
