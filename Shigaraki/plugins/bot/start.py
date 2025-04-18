@@ -43,7 +43,7 @@ async def start_pm(client, message: Message, _):
     await asyncio.sleep(0.1)
     await loading_1.delete()
 
-    started_msg = await message.reply_text(text="<b>sᴛᴀʀᴛᴇᴅ...<a href='https://files.catbox.moe/ck28qb.mp4' target='_blank'>ㅤ ㅤㅤㅤ</a></b>")
+    started_msg = await message.reply_text(text="<b>sᴛᴀʀᴛᴇᴅ...<a href='https://files.catbox.moe/xyy4qd.mp4' target='_blank'>ㅤ ㅤㅤㅤ</a></b>")
     await asyncio.sleep(0.4)
     await started_msg.delete()
 
@@ -53,7 +53,7 @@ async def start_pm(client, message: Message, _):
             keyboard = help_pannel(_)
             await message.reply_text(
                 text=(
-                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://files.catbox.moe/ck28qb.mp4' target='_blank'>✨⚡</a></b>\n\n"
+                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://files.catbox.moe/xyy4qd.mp4' target='_blank'>✨⚡</a></b>\n\n"
                     f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                     f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴍᴀᴋᴇ ᴀ ғʀɪᴇɴᴅʟʏ & ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
                     ),
@@ -116,7 +116,7 @@ async def start_pm(client, message: Message, _):
         out = private_panel(_)
         await message.reply_text(
             text=(
-                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://files.catbox.moe/ck28qb.mp4' target='_blank'>✨⚡</a></b>\n\n"
+                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://files.catbox.moe/pts7pr.mp4' target='_blank'>✨⚡</a></b>\n\n"
                  f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                  f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
             ),
