@@ -84,17 +84,17 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL =  "https://i.ibb.co/yBHkSHZ/photo-2024-12-20-12-20-16-7450467828362117124.jpg"
-PLAYLIST_IMG_URL = "https://i.ibb.co/XFyfNRC/photo-2024-12-14-04-11-48-7448115436119392264.jpg"
-STATS_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/TrJhtN4/photo-2024-12-14-04-12-15-7448115547788542008.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/XFyfNRC/photo-2024-12-14-04-11-48-7448115436119392264.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/TrJhtN4/photo-2024-12-14-04-12-15-7448115547788542008.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/XFyfNRC/photo-2024-12-14-04-11-48-7448115436119392264.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/THd3s2g/photo-2024-12-14-04-12-49-7448115698112397328.jpg"
+START_IMG_URL =  "https://files.catbox.moe/56re9u.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/bggrlh.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/iffmnv.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/f3yuiy.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/urv7wi.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/6khxhw.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/2tcim5.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/bggrlh.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/iffmnv.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/6khxhw.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/jkqyg2.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
