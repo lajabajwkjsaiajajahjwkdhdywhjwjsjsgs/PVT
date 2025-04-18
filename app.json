@@ -6,19 +6,19 @@
   "env": {
     "API_ID": {
       "description": "API ID from Telegram",
-      "value": "22317880"
+      "value": "25955854"
     },
     "API_HASH": {
       "description": "API HASH from Telegram",
-      "value": "5e341628f7176989bcffb2b8fc22445f"
+      "value": "2ede59823a90cb31442a74f5ae01f675"
     },
     "BOT_TOKEN": {
       "description": "Bot Token for your Telegram bot",
-      "value": "7656219426:AAF5748P2BNbK250vSii7XE9VNxSD_ThDq0"
+      "value": "7979900579:AAFLKZhOZDCRTsdJu_-ODflaneLqqHY9DG8"
     },
     "MONGO_DB_URI": {
       "description": "MongoDB connection URI",
-      "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      "value": "mongodb+srv://shigarakisan:demnkin@cluster0.cxt4iov.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "LOGGER_ID": {
       "description": "Logger Group ID",
@@ -30,15 +30,15 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel URL",
-      "value": "https://t.me/MAHABHARAT_SUPPORT"
+      "value": "t.me/MBT_UPDATES"
     },
     "SUPPORT_CHAT": {
       "description": "Support Chat URL",
-      "value": "https://t.me/zenitsu_bot_support"
+      "value": "https://t.me/+ytk9hkZfGjY3MDRl"
     },
     "STRING_SESSION": {
       "description": "String Session for Telegram Bot",
-      "value": "BAFUizgANaTD0qaODMNn46TsezuOdFjudSxwp8MCAMPxRrxqqSpJklKrNfYKT-_HHHijM79YC2lghRWgHCLtLvUMiR40bodGh7OE2BuvxjqgJImV4dwi92UGQ2aS1J3KHXBmp2n73ScxxdM-aRVeXXd4xf4EOqPZlNfOIQ9-xH-dZw0qcrQF-FFU8npo0f5TJ-GPYaY6EcOfpstoi2cilTRyngoAMvl-ziMMw42j8XkOUia5d7CREvgeZvmF411WEKvuuQ0wyVIkL4CFBmPeb51nd9A-_tegVBcgN-CT95AOjB4uyFGlZvmfhyfHLfXd59ZRFAPWNIXiCPp2ceSD2-f1q2tVUAAAAAGXpY4PAA"
+      "value": "BQGMDg4Aa8AuIE8PlTbZY_OF3n5LPXRZRS68HecAY6t3t0dbgxNP9J6A4RhY0ci_n83bMRUGOe1m055koRLl5jmG9xxBodFbVJ9c769xEGmIbJ4p_ErLrEq3WMSsqR2taajwPClfOI4ax2nDjQxOvOVl7UJhnh-K-gT1ow4uVGn5wULyd0JcPXOMtGqdi2A-ABJM6atC25GbVAOvNTKBI0MAz9iRjiQxJXChG8yQpBgjmXjRj237V4Dac4GxwdHeoFLndGsPm3ZkHmbHRRjs2offdZcM_j6Hrw7HYyHMDTF_V2Pf7hVhbpzqesG1STSV7ilsZqq4Yzrvuqj96i_lgYXm0NfHFAAAAAHXGk-qAA"
     }
   },
   "formation": {
