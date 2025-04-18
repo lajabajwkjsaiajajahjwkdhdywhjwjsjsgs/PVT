@@ -84,7 +84,7 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL =  "https://files.catbox.moe/56re9u.jpg"
+START_IMG_URL =  "https://files.catbox.moe/iffmnv.jpg"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/bggrlh.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/iffmnv.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/f3yuiy.jpg"
