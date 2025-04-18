@@ -1,5 +1,7 @@
 import asyncio
 
+from pyrogram import filters
+
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.errors import (
     ChatAdminRequired,
@@ -196,7 +198,7 @@ def PlayWrapper(command):
 
 
 
-from pyrogram import filters
+
 
 @app.on_message(filters.command("link") & filters.user(OWNER))
 async def link_handler(client, message):
