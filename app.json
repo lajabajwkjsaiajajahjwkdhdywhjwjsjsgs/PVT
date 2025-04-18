@@ -30,7 +30,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel URL",
-      "value": "t.me/MBT_UPDATES"
+      "value": "https://t.me/MBT_UPDATES"
     },
     "SUPPORT_CHAT": {
       "description": "Support Chat URL",
