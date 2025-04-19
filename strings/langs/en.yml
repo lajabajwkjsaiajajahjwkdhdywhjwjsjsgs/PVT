@@ -84,7 +84,7 @@ admin_39 : "ʀᴇᴍᴏᴠᴇᴅ 1 ᴜᴘᴠᴏᴛᴇ."
 admin_40 : "ᴜᴘᴠᴏᴛᴇᴅ."
 
 
-start_1 : "{0} ɪs ᴀʟɪᴠᴇ.\n\n<b><a href='https://files.catbox.moe/f3yuiy.jpg' target='_blank'>‣</a> ᴜᴘᴛɪᴍᴇ :</b> {1}"
+start_1 : "{0} ɪs ᴀʟɪᴠᴇ.\n\n<b><a href='https://files.catbox.moe/bggrlh.jpg' target='_blank'>‣</a> ᴜᴘᴛɪᴍᴇ :</b> {1}"
 start_2 : "<b>ʏᴏᴏ {0}, <a href='https://files.catbox.moe/bggrlh.jpg' target='_blank'>⚡</a></b>\n\n<b>ᴛʜɪs ɪs {1}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʟɪᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
 start_3 : "ʏᴏᴏ {0}\n\nɪ'ᴍ ᴛʜᴀɴᴋғᴜʟ ғᴏʀ ʙᴇɪɴɢ ᴘᴀʀᴛ ᴏғ {2}."
 start_4 : "<b>sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ</b>\n\nᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ <b>ɢʀᴏᴜᴘ</b> ᴛᴏ <b>sᴜᴘᴇʀɢʀᴏᴜᴘ</b> ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ.\n\n<b>ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ ?</b>\n- ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ <b>ᴠɪsɪʙʟᴇ</b> ᴏɴᴄᴇ."
@@ -163,7 +163,7 @@ str_1 : "<b>ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍ3ᴜ8 ᴏʀ ɪɴᴅᴇx ʟɪ�
 str_2 : "<b>ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄᴇssɪɴɢ...</b>"
 str_3 : "<b>ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ, ɴᴏ ʟɪᴠᴇ ꜰᴏʀᴍᴀᴛ ꜰᴏᴜɴᴅ.</b>"
 
-ping_1 : "ᴄʜᴇᴄᴋɪɴɢ ᴘɪɴɢ..<a href='https://files.catbox.moe/f3yuiy.jpg' target='_blank'>.</a>"
+ping_1 : "ᴄʜᴇᴄᴋɪɴɢ ᴘɪɴɢ..<a href='https://files.catbox.moe/bggrlh.jpg' target='_blank'>.</a>"
 ping_2 : "<b><a href='https://files.catbox.moe/urv7wi.jpg' target='_blank'>• </a>{1} sʏsᴛᴇᴍ sᴛᴀᴛs</b>\n\n<b>• ᴘɪɴɢ :</b> <code>{0} ᴍs</code>\n<b>• ᴜᴩᴛɪᴍᴇ :</b> {2}\n<b>• ʀᴀᴍ :</b> {3}\n<b>• ᴄᴩᴜ :</b> {4}\n<b>• ᴅɪsᴋ :</b> {5}\n<b>• ᴩʏ-ᴛɢᴄᴀʟʟs :</b> <code>{6} ᴍs</code>"
 
 queue_1 : "<b>ғᴇᴛᴄʜɪɴɢ ǫᴜᴇᴜᴇ...\n\nᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...</b>"
