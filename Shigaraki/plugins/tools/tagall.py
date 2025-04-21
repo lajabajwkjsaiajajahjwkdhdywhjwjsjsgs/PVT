@@ -4,7 +4,7 @@ from pyrogram.enums import ChatMembersFilter
 
 from pyrogram.errors import FloodWait
 
-from shigaraki import app
+from Shigaraki import app
 
 
 SPAM_CHATS = []
