@@ -1,6 +1,6 @@
 from Shigaraki import app
 from pyrogram import filters
-import nekos
+import Shigaraki
 
 
 @app.on_message(filters.command("slap"))
