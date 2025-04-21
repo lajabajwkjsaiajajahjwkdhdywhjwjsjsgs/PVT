@@ -1,4 +1,4 @@
-from shigaraki import app
+from Shigaraki import app
 from pyrogram import filters
 import nekos
 
