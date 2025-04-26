@@ -46,7 +46,7 @@ GIT_TOKEN = ""
 
 SUPPORT_CHANNEL = "https://t.me/MBT_UPDATES"
 
-SUPPORT_CHAT = "https://t.me/+ytk9hkZfGjY3MDRl"
+SUPPORT_CHAT = "https://t.me/+Fy_y61SmobdkYWRl"
 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = 9000
