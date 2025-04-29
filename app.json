@@ -14,7 +14,7 @@
     },
     "BOT_TOKEN": {
       "description": "Bot Token for your Telegram bot",
-      "value": "7979900579:AAHmYB7bj_e3lrODrhtZFGQyyZUbPiwEzME"
+      "value": "7979900579:AAFqBNSz_nOxXtyDcObsI8kUS56jMSdxrio"
     },
     "MONGO_DB_URI": {
       "description": "MongoDB connection URI",
