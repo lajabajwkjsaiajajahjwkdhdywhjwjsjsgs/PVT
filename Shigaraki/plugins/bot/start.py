@@ -30,7 +30,7 @@ from strings import get_string
 async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
 
-    loading_1 = await message.reply_text("⚡")
+    loading_1 = await message.reply_text("💞")
     await asyncio.sleep(0.1)
     
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ</b>")
@@ -53,7 +53,7 @@ async def start_pm(client, message: Message, _):
             keyboard = help_pannel(_)
             await message.reply_text(
                 text=(
-                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://files.catbox.moe/xyy4qd.mp4' target='_blank'>✨⚡</a></b>\n\n"
+                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://files.catbox.moe/xyy4qd.mp4' target='_blank'>✨💞</a></b>\n\n"
                     f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                     f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴍᴀᴋᴇ ᴀ ғʀɪᴇɴᴅʟʏ & ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
                     ),
@@ -71,7 +71,7 @@ async def start_pm(client, message: Message, _):
             return
 
         if name.startswith("inf"):
-            m = await message.reply_text("⚡️")
+            m = await message.reply_text("💞")
             query = name.replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
             results = VideosSearch(query, limit=1)
@@ -116,7 +116,7 @@ async def start_pm(client, message: Message, _):
         out = private_panel(_)
         await message.reply_text(
             text=(
-                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://files.catbox.moe/pts7pr.mp4' target='_blank'>✨⚡</a></b>\n\n"
+                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://files.catbox.moe/pts7pr.mp4' target='_blank'>✨💞</a></b>\n\n"
                  f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                  f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
             ),
